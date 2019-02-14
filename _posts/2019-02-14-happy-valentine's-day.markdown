@@ -3,6 +3,7 @@ layout: post
 title:  "Happy Valentine's Day"
 date:   2019-02-14 17:41:56 +0800
 categories: jekyll update
+background: '/img/posts/05.jpg'
 ---
 The Orange
 桔子
