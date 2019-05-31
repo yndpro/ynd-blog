@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The 1th dating anniversary"
-subtitle: "May 30, 2019"
 date:   2019-05-30 22:21:10 +0800
 categories: jekyll update
 background: '/img/posts/07.jpg'
